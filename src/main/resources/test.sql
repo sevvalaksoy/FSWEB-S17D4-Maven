@@ -68,7 +68,7 @@ public.ogrenci(ad, soyad, cinsiyet, sinif, puan, dtarih)
 VALUES('Niyazi', 'Sevinç', 'E', '9B', 0,'1990-11-11 00:00:00');
 INSERT INTO
 public.ogrenci(ad, soyad, cinsiyet, sinif, puan, dtarih)
-VALUES('İsmail', 'Sevinç', 'E', '10B', 0,'1990-04-17 00:00:00');
+VALUES('Ismail', 'Sevinç', 'E', '10B', 0,'1990-04-17 00:00:00');
 INSERT INTO
 public.ogrenci(ad, soyad, cinsiyet, sinif, puan, dtarih)
 VALUES('Kenan', 'Emin', 'E', '9A', 0,'1988-02-23 00:00:00');
